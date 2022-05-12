@@ -1,3 +1,3 @@
 # jQuery 
+Basic animations with jQuery\
 https://rohankumr.github.io/Jquerry/
-Basic animations with jQuery 
